@@ -18,7 +18,10 @@ Instructions:
 4) Import flow into "Zigbee2MQTT Admin Panel" flow
 5) Visit: http://ipaddress:1880/ui
 
-Notes:
-Currently in beta, some features may or may not work correctly.
+A list of Node-Red flows for integrating Zigbee2MQTT devices with various home automation systems can be found [here](https://github.com/ben423423n32j14e/zigbee2mqttflowdevices).
+
 
 ![Screenshot](screenshot.png)
+
+Notes:
+Currently in beta, some features may or may not work correctly.
