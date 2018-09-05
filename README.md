@@ -1,4 +1,4 @@
-# zigbee2mqttadminpanel
+# Zigbee2MQTT Admin Panel
 Node-Red-Dashboard web interface for controlling Zigbee2MQTT
 
 Instructions:
