@@ -11,3 +11,5 @@ Instructions:
 
 Notes:
 Currently in beta, some features may or may not work correctly.
+
+![Screenshot](screenshot.png)
