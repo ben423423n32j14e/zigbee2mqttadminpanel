@@ -1,5 +1,5 @@
 # Zigbee2MQTT Admin Panel
-Node-Red-Dashboard web interface for controlling Zigbee2MQTT
+[Node-Red-Dashboard](https://github.com/node-red/node-red-dashboard) web interface for controlling [Zigbee2MQTT](https://github.com/Koenkk/zigbee2mqtt)
 
 Features:
 * Popup notifications indicating device pairing status (if pairing devices).
@@ -12,7 +12,7 @@ Features:
 
 Instructions:
 
-1) Install Node-Red
+1) Install [Node-Red](https://nodered.org/)
 2) Create a Flow called "Zigbee2MQTT Admin Panel"
 3) Settings > "Manage palette" > Install, search for and install "node-red-dashboard"
 4) Import flow into "Zigbee2MQTT Admin Panel" flow
