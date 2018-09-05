@@ -9,6 +9,15 @@ Instructions:
 4) Import flow into "Zigbee2MQTT Admin Panel" flow
 5) Visit: http://ipaddress:1880/ui
 
+Features:
+* Popup notifications indicating device pairing status (if pairing devices).
+* Rename devices
+* Remove devices
+* Permit join
+* Set the console logging level
+* See if the Zigbee2MQTT bridge is online
+* Display devices
+
 Notes:
 Currently in beta, some features may or may not work correctly.
 
