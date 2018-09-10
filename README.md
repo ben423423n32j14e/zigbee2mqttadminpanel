@@ -9,6 +9,7 @@ Features:
 * Set the console logging level
 * See if the Zigbee2MQTT bridge is online
 * Display devices
+* HTTP API
 
 Instructions:
 
@@ -22,6 +23,9 @@ A list of Node-Red flows for integrating Zigbee2MQTT devices with various home a
 
 
 ![Screenshot](screenshot.png)
+
+HTTP API URLS:
+* Bridge State: http://ipaddress:1880/adminpanelapi/state
 
 Notes:
 Currently in beta, some features may or may not work correctly.
