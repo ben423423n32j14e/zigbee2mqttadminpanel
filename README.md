@@ -24,8 +24,9 @@ A list of Node-Red flows for integrating Zigbee2MQTT devices with various home a
 
 ![Screenshot](screenshot.png)
 
-HTTP API URLS:
-* Bridge State: http://ipaddress:1880/adminpanelapi/state
+HTTP API URLS (http://ipaddress:1880/):
+
+* Bridge State: /adminpanelapi/state
 
 Notes:
 Currently in beta, some features may or may not work correctly.
