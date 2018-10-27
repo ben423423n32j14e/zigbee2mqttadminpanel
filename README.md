@@ -28,6 +28,7 @@ HTTP API URLS (http://ipaddress:1880/):
 
 * Bridge State: /adminpanelapi/state
 * Device List (formatted in JSON): /adminpanelapi/devicelist
+* Graphviz /adminpanelapi/networkmap/graphviz (suggest pasting into: http://viz-js.com/ or http://www.webgraphviz.com/)
 
 Notes:
 Currently in beta, some features may or may not work correctly.
