@@ -29,6 +29,15 @@ HTTP API URLS (http://ipaddress:1880/):
 * Bridge State: /adminpanelapi/state
 * Device List (formatted in JSON): /adminpanelapi/devicelist
 * Graphviz /adminpanelapi/networkmap/graphviz (suggest pasting into: http://viz-js.com/ or http://www.webgraphviz.com/)
+* VizJS Networkmap /adminpanel/networkmap/viz/\<engine>  
+(available engines are: circo, dot, fdp, neato, osage, twopi)
+    * /adminpanel/networkmap/viz/circo
+    * /adminpanel/networkmap/viz/dot
+    * /adminpanel/networkmap/viz/fdp
+    * /adminpanel/networkmap/viz/neato
+    * /adminpanel/networkmap/viz/osage
+    * /adminpanel/networkmap/viz/twopi
+    * defaults to "dot"
 
 Notes:
 Currently in beta, some features may or may not work correctly.
